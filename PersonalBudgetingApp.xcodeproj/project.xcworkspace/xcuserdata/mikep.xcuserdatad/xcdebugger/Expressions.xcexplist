@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "AuthService.register(name:email:password:):AuthService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "httpResponse">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AuthViewModel.register():AuthViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "email">
+            </PersistentString>
+            <PersistentString
+               value = "password">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
